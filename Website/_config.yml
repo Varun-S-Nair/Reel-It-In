@@ -1,0 +1,24 @@
+title:              Reel It In
+email:              varunsnair2002@gmail.com
+description:        A Place Where I Put My Opinions on Movies Because My Life is That Uninteresting
+author:             Varun Nair
+baseurl:            "/reel-it-in"
+url:                "https://blackrockdigital.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    Varun-S-Nair
+facebook_username:  profile.php?id=100013847348492
+linkedin_username:  varun-nair-856856163
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
